@@ -7,7 +7,7 @@ A customized version of the default **CWP (CentOS Web Panel) "original" user the
 ## Features
 
 - Modified layout and styles based on the default CWP `original` theme
-- Custom file manager powered by [cwp_filemanager](https://github.com/josephchuks/cwp_filemanager)
+- Custom file manager powered by [cwp_filemanager](https://github.com/JosephChuks/php-file-manager-with-code-editor)
 - Dark mode support
 - Responsive design improvements
 
